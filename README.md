@@ -1,13 +1,11 @@
-## Neuroglancer links
-
 ## Large Human Brain Slab: AZ21-JC4A NPY (2023-03-14)
 
-Label: 
-Alexa Fluor 647 - NPY
+Label: <br>
+Alexa Fluor 647 - NPY <br>
 
-Channel:
-green - Autofluorescence
-red - NPY
+Channel: <br>
+green - Autofluorescence <br>
+red - NPY <br>
 
 Imaged at at the bottom of a 5mm thick sample (5mm deep)
 Date of imaging: 2023-01-25

@@ -1,8 +1,8 @@
 ## Large Human Brain Slab: AZ21-JC4A NPY (2023-03-14)
 
 Label: <br>
-<p> Alexa Fluor 647 - NPY <br> </p>
-( + Autofluorescence excited by 488nm laser) <br>
+   Alexa Fluor 647 - NPY <br>
+   ( + Autofluorescence excited by 488nm laser) <br>
 
 
 Imaged at at the bottom of a 5mm thick sample (5mm deep) <br>

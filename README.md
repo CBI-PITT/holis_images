@@ -2,6 +2,16 @@
 
 - Large Human Brain Slab: AZ21-JC4A NPY (2023-03-14)
 
+Label: 
+Alexa Fluor 647 - NPY
+
+Channel:
+green - Autofluorescence
+red - NPY
+
+Imaged at at the bottom of a 5mm thick sample (5mm deep)
+
+
     ![thumbnail](https://github.com/CBI-PITT/holis_images/blob/master/thumbnails/large_human_slab_npy.png?raw=true)
 
     [neuroglancer](https://brain-api.cbi.pitt.edu/ng/globus/bil/hillman/2023_03_14_largeSlab_AZ21-JC4A_NPY_tiff_revised_tiff_stacks_fused.omehans)

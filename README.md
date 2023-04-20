@@ -1,6 +1,6 @@
 ## Large Human Brain Slab: AZ21-JC4A NPY (2023-03-14)
 
-__Label:__ <br>
+Label: <br>
    Alexa Fluor 647 - NPY <br>
    ( + Autofluorescence excited by 488nm laser) <br>
    
@@ -18,13 +18,12 @@ Date of imaging: 2023-01-25
 
 ## Large Human Brain Slab: NPBB299 Nuclei + Colors corrected (2023-01-19)
 Label: <br>
-   SytoG24 - nuclei <br>
+    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
    Alexa Fluor 594 - nNOS <br>
    Alexa Fluor 647 - Iba-1 <br>
    Alexa Fluor 647 - ACTA2 <br>
 
-Imaged at at the bottom of a 5mm thick sample (5mm deep) <br>
 Date of imaging: 2023-01-19
 
 

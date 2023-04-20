@@ -1,5 +1,7 @@
 ## Large Human Brain Slab: AZ21-JC4A NPY (2023-03-14)
 
+Neuroglancer ID: [AZ21_JC4A NPY slab](https://brain-api.cbi.pitt.edu/ng/globus/bil/hillman/2023_03_14_largeSlab_AZ21-JC4A_NPY_tiff_revised_tiff_stacks_fused.omehans) <br>
+
 Label: <br>
    Alexa Fluor 647 - NPY <br>
    ( + Autofluorescence excited by 488nm laser) <br>
@@ -9,8 +11,6 @@ Date of imaging: 2023-01-25
 
 
    ![thumbnail](https://github.com/CBI-PITT/holis_images/blob/master/thumbnails/large_human_slab_npy.png?raw=true)
-
-   [neuroglancer](https://brain-api.cbi.pitt.edu/ng/globus/bil/hillman/2023_03_14_largeSlab_AZ21-JC4A_NPY_tiff_revised_tiff_stacks_fused.omehans)
 
 
 -------------

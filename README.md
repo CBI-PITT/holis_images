@@ -17,6 +17,7 @@ Date of imaging: 2023-01-25
 
 
 ## Large Human Brain Slab: NPBB299 Nuclei + Colors corrected (2023-01-19)
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
@@ -36,6 +37,7 @@ Date of imaging: 2023-01-19
 
 
 ## Large Human Brain Slab: NPBB299 Nuclei - corrected (2023-01-19)
+
 Label: <br>
    SytoG24 - nuclei <br>
    (not shown) Alexa Fluor 546 - NeuN <br>
@@ -54,6 +56,7 @@ Date of imaging: 2023-01-19
 
 
 ## Large Human Brain Slab: NPBB299 Nuclei + Colors (uncorrected)
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
@@ -73,6 +76,7 @@ Date of imaging: 2023-01-19
 
 
 ## (Combinatorial Slide) Small Human Brain Sample 1: Nuclei + Colors
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
@@ -93,6 +97,7 @@ Date of imaging: 2023-01-14
 
 
 ## (Combinatorial Slide) Small Human Brain Sample 2: Nuclei + Colors
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
@@ -112,6 +117,7 @@ Date of imaging: 2023-01-14
 
 
 ## Whole Mouse Brain viral labeled: Nuclei + Colors 
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 594 - Ctip2 <br>
@@ -130,6 +136,7 @@ Date of imaging: 2023-12-09
 
 
 ## (Combinatorial Slide) Mouse Brain Section: Nuclei + Colors
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
@@ -149,6 +156,7 @@ Date of imaging: 2023-01-14
 
 
 ## (Combinatorial Slide) Mouse Brain Section: Nuclei + Colors - reimaged
+
 Label: <br>
    SytoG24 - nuclei <br>
    Alexa Fluor 546 - NeuN <br>
